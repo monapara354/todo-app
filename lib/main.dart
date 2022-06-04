@@ -22,7 +22,7 @@ class _myappState extends State<myapp> {
   String input = "";
   String des = "";
 
-  bool isFavourite = false;
+  bool isFavourite = false;  
 
   Dbhelper? dbhelper;
 
